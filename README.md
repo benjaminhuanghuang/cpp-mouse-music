@@ -1,12 +1,3 @@
-# C++ 8 Queens
+# C++ 8 Mouse Musical Instrument [Window]
 
 
-## format of answer
-index -> row
-value -> column index
-
-
-## Recusrion method solveNQ()
-- 
-
-## 
